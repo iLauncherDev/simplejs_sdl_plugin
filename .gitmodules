@@ -1,0 +1,4 @@
+[submodule "simplejs_src"]
+	path = simplejs_src
+	url = https://github.com/iLauncherDev/SimpleJS
+	branch = main
